@@ -22,6 +22,7 @@ This Android project creates a simple screensaver effect similar to the classic 
 - This project uses no external dependencies.
 
 ## Preview
-[screen_recording.webm](https://github.com/anchanareghu/Android-Screensaver/assets/143755659/7401c096-7bf1-4ce5-9e95-84b4ede26b78)
+https://github.com/anchanareghu/Android-Screensaver/assets/143755659/30678307-e911-43f6-af86-3be17c8ee768
+
 
 
