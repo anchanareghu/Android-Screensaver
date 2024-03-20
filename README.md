@@ -1,4 +1,4 @@
-# DVD Screensaver with Animator
+# DVD Screensaver with ObjectAnimator
 
 This Android project creates a simple screensaver effect similar to the classic DVD screensaver using Animator. The Android logo bounces around the screen, changing color each time it hits the edges.
 
@@ -22,6 +22,8 @@ This Android project creates a simple screensaver effect similar to the classic 
 - This project uses no external dependencies.
 
 ## Preview
-[screen_recording.webm](https://github.com/anchanareghu/Android-Screensaver/assets/143755659/7401c096-7bf1-4ce5-9e95-84b4ede26b78)
+[preview_01](https://github.com/anchanareghu/Android-Screensaver/assets/143755659/30678307-e911-43f6-af86-3be17c8ee768)
+
+[preview_02](https://github.com/anchanareghu/Android-Screensaver/assets/143755659/d0a4e016-0391-4f2e-8f6d-a48764279a2c)
 
 
